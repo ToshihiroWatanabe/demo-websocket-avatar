@@ -1,5 +1,5 @@
 # demo-websocket-avatar
- アバターのドラッグ移動とWebSocket通信のデモ
+ アバターのドラッグ移動とWebSocketによるリアルタイム表示のデモ
  
  ## 動作の様子
  
